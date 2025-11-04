@@ -1,4 +1,7 @@
 # HDRVDP Python wrapper
+
+This development has received funding from the European Union´s Horizon 2020 research and innovation programme under grant agreement No. 101004728 (LEAPS-INNOV)
+
 A simple Python wrapper for the  HDR-VDP C++ code. *Ubuntu 14* is required (e.g within a Virtualbox virtual machine) as hdrvdp-1.7.1 (the latest C only version) depends on pfstools 1.8.5. 
 
 ### Simple usage within the virtual machine
